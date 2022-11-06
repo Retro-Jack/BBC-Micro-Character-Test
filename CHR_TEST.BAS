@@ -15,5 +15,6 @@
 150 Key% = GET 
 160 NEXT M 
 170 IF M<>7 MODE 7 
-180 PRINT:PRINT:PRINT "All character codes have now been displayed." 
-190 END
+180 PRINT:PRINT:PRINT "All character codes have now been"
+190 PRINT "displayed." 
+200 END
