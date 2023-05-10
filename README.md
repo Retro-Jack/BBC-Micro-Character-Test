@@ -1,6 +1,5 @@
 # BBC-Micro-Character-Test
 A short program to display the computer's character set including all screen modes.
-The provided code is written in a BASIC programming language and it seems to be designed to display character codes in different screen modes. Here's a breakdown of what each line does:
 
 1. `10 FOR M=0 TO 7`: This line initializes a loop that iterates through values from 0 to 7, assigning each value to the variable `M`.
 
