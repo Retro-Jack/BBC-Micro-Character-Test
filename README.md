@@ -21,6 +21,6 @@ ChatGPT analysis
 14. Line 140: Prints three new lines and displays the message "All character codes have now been displayed."
 15. Line 150: Ends the program execution.
 
-This Acorn BBC BASIC code performs the same functionality as described earlier. It iterates through different screen modes, displays the character codes and corresponding characters for each mode (except for mode 7), and provides a message indicating that all character codes have been displayed.
+This Acorn BBC BASIC iterates through different screen modes, displays the character codes and corresponding characters for each mode (except for mode 7), and provides a message indicating that all character codes have been displayed.
 
 Please note that Acorn BBC BASIC is specific to Acorn computers and may have slight differences compared to other BASIC dialects.
